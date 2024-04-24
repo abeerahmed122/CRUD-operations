@@ -7,7 +7,7 @@
 - [Authors](#authors)
 
 ## Introduction
-This CRUD project is built using [framework/library], allowing users to perform CRUD operations on [entity/objects]. It includes the following operations:
+This CRUD project is built using PHP language, allowing users to perform CRUD operations on [entity/objects]. It includes the following operations:
 
 - Create: Add new [entity/objects].
 - Read: Retrieve [entity/objects] from the database.
@@ -24,9 +24,9 @@ This CRUD project is built using [framework/library], allowing users to perform 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-- [Dependency/Tool] installed on your machine.
-- [Other prerequisite, if any].
-
+- [Local Server].
+- [PHP].
+-[MY SQL]
 ### Installation
 1. Clone the project repository:
    ```bash
