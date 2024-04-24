@@ -32,6 +32,5 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
    git clone https://github.com/abeerahmed122/CRUD-operations.git
 
-### Auther
-@abeerahmed122 - Idea & Initial work
-
+## Authors
+- [Abeer Elkhamisy](https://github.com/abeerahmed122) - Idea & Initial work
